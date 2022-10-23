@@ -1,7 +1,7 @@
-pandas==1.4.2
-seaborn==0.11.2
-matplotlib==3.5.1
-scikit-learn==1.0.2
+pandas
+seaborn
+matplotlib
+scikit-learn
 astroid==2.11.7
 autopep8==1.7.0
 certifi==2022.9.24
